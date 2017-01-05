@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FirstApp
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
@@ -29,3 +30,6 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# first-app
+>>>>>>> 327cb8082e5b3bc51951d875f0de197d58127318
